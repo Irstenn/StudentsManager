@@ -1,0 +1,12 @@
+c:\users\dns\source\repos\StudentsManager\StudentsManager\bin\Debug\StudentsManager.exe.config
+c:\users\dns\source\repos\StudentsManager\StudentsManager\bin\Debug\StudentsManager.exe
+c:\users\dns\source\repos\StudentsManager\StudentsManager\bin\Debug\StudentsManager.pdb
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.csprojAssemblyReference.cache
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.Properties.Resources.resources
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.Screens.DashboardForm.resources
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.Screens.Templates.TemplatesForm.resources
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.csproj.GenerateResource.cache
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.csproj.CoreCompileInputs.cache
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.exe
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.pdb
+c:\users\dns\source\repos\StudentsManager\StudentsManager\obj\Debug\StudentsManager.Screens.LoginForm.resources
